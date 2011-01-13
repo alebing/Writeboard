@@ -1,0 +1,34 @@
+﻿body { margin:0; padding:0; font-family: verdana, "Lucida Grande", arial, helvetica, sans-serif; font-size: 12px;}
+
+a:hover { background: #939; color:#fff}
+
+/* Default.aspx */
+#gradiente {height:50px; background:url(Img/grad.jpg) repeat-x }
+
+#conjunto{ width:1000px; margin:0 auto }
+
+#logo{ text-align:center }
+
+#crear{ width:300px; float:left; padding:10px; border:3px solid #fa0; background:#fff68f }
+
+#cbTerminos{margin:8px 0}
+
+#divValidar{ visibility:hidden }
+
+.validators{ color:Red }
+#RFV1, #RFV2, #RFV3, #REV1, #CV1{ color:Red }
+
+
+
+/* Ver.aspx */
+#link { background-color:#090; color:#fff; padding:10px 50px }
+
+.oculto { background-color:#ccc; border:3px solid #aaa; margin:10px 5px; height:200px; padding:10px }
+
+#contenido { background-color:#fff; margin:10px 350px 10px 30px; border:1px solid #666; padding:10px 20px}
+
+.titulo{ margin:5px 0px; color:#555 }
+
+#txtTitulo { font-size:25px; padding:3px }
+
+#versiones{ border:2px solid #555; padding:5px}
